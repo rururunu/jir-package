@@ -1,0 +1,38 @@
+# Build outputs
+/target/
+/dist/
+/build/
+/out/
+/bin/
+/obj/
+
+# Windows installer artifacts
+*.exe
+*.msi
+*.cab
+*.pdb
+*.ilk
+*.log
+*.tmp
+
+# Rust
+**/*.rs.bk
+
+# .NET / C# temporary files
+*.user
+*.suo
+*.cache
+*.nupkg
+packages/
+
+# IDEs and editors
+.idea/
+.vscode/
+.vs/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
